@@ -1,1 +1,1 @@
-
+When building Onyx AI it started off as a basic RAG system (aka naive RAG). However given the complexity of questions that could potentially be asked in the field of computing our basic RAG system may face challenges. This is due to the fact that when we handle complex queries, we may require reasoning from multiple pieces of information that could be scattered. Therefore I decided to explore into multi-hop retrieval systems.
