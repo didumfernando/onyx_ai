@@ -12,3 +12,4 @@ Now in these two passages, it is not explicity stated who is the president of si
 
 <img width="1109" height="427" alt="image" src="https://github.com/user-attachments/assets/3ef11e05-cf89-4596-89c9-869722d9a333" /> **Credits to Sachin Khandewal**
 
+This is a great system to adopt especially given the fact that the data that we have provided to the system may not contain everything explicity so this multi-hop approach helps to sieve out information and make the model more **"human-like"** rather than just retrieving the k-nearest vector which may be partial / incomplete. 
